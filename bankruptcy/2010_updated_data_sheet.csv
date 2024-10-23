@@ -1,0 +1,65 @@
+DISTRICT,STATE,COMPANY NAME,ASSETS (MILLIONS),LIABILITIES (MILLIONS),Latitude,Longitude
+,,"ABC-NACO, Inc.",75,170,,
+D,DE,Advanta Group,363,331,40.7425941,-74.1687329
+ND,IL,"Amcore Financial, Inc.",7,75,,
+SD,NY,American Mortgage Acceptance Company,6.37,119.968,40.7500028,-73.9754087
+D,DE,"Barzel Industries, Inc.",366,385,40.0569475,-74.1773098
+SD,TX,Baseline Oil & Gas Corp.,80,139,34.063463,-117.782102
+SD,NY,Blockbuster,"1,017.04","1,464.94",40.722008,-73.9848136
+SD,FL,"BSML, Inc.",6.94,9.97,27.2149585,-80.82891289999999
+CD,CA,"California Coastal Communities, Inc.",291.00,231.00,35.1744094,-120.6985657
+ND,IL,"Canopy Financial, Inc.",18.99,25.84,40.1474579,-88.233155
+D,DE,Capital Growth Systems Inc.,26.97,17.146,,
+D,CO,"Ceragenix Pharmaceuticals, Inc. et al.",1.50,12.96,,
+MD,FL,"Certified Diabetic Services, Inc.",0.40,0.81,28.3545896,-80.6957589
+D,DE,Chem Rx Corp.,169.69,178.28,40.59330509999999,-73.66066119999999
+ED,WI,"CIB Maine Bancshares, Inc.",105,107,43.0365889,-88.0704785
+SD,NY,Ciena Capitol LLC,521.00,584.00,40.7510376,-73.98745009999999
+SD,NY,CIT Group Inc.,"71,019.20","64,901.20",40.7206344,-74.01090610000001
+SD,NY,Citadel Broadcastig Corp.,"1,400.58","2,464.31",40.7433759,-73.9894806
+ND,IL,"Corus Bankshares, Inc.",314.15,532.94,42.145997,-87.8302169
+SD,TX,Cross Canyon Energy Corp.,53.35,41.81,30.0145557,-95.5088079
+WD,WI,"DiscoverNet, In.",701,403,43.03686889999999,-87.89573519999999
+ND,CA,"ECO2 Plastics, Inc.",1.70,6.39,34.2114521,-118.3634069
+SD,TX,Edge Petroleum Corp.,264,234,32.0173063,-102.0526894
+SD,NY,FairPoint Communications,"3,235.60","3,234.47",42.1101824,-73.5712684
+CD,CA,FirstFed Financial Corp.,4.47,159.65,37.9875519,-122.5904905
+D,NV,Firstfold Corp.,17.96,26.98,36.2893845,-115.1776384
+D,DE,GigaBeam Corp.,3.18,9.396,,
+SD,NY,GSC Group,119.79,313.56,,
+D,DE,GSI Group,555,370,40.7466209,-73.9962458
+ND,TX,"Guaranty Financial Group, Inc. et al.","15,391.00","14,390.00",33.1254869,-95.5986482
+CA,CA,Imperial Capitol Bancorp Inc.,20.00,190.86,34.0617252,-118.416607
+ND,IL,"Isco International, Inc.",5.28,25.46,42.0555891,-88.06903319999999
+SD,NY,Jennifer Covertibles Inc.,25.97,46.353,40.8066605,-73.48376209999999
+SD,NY,"Jesup & Lamont, Inc. , JWA",41.15,24.564,42.47554299999999,-92.06378839999999
+D,CO,Kolorfusion International Inc.,596.70,2.49,39.7938019,-104.8504188
+D,MD,"Kore Holdings, Inc.",                                     ----,                                    ----,40.7127764,-74.0131189
+WD,TX,"MDI, Inc.",5.18,2.99,32.9382293,-96.9985552
+SD,FL,Medical Staffing Network,96,150,26.3970172,-80.1043972
+SD,NY,"Mesa Air Group, Inc.",975.49,868.59,40.7464355,-74.0089718
+D,DE,"Neenah Enterprises, Inc.",286.61,449.10,42.1312699,-71.122824
+D,AZ,NutraCea,83.70,18.90,40.3650877,-74.167457
+D,DE,"Orleans Homebuilders, Inc.",591.46,560.13,40.0850455,-74.7251618
+D,MN,Otter Tail AG Enterprises LLC,67,86,46.28055020000001,-96.0699858
+D,DE,"PNG Ventures, Inc.",40,45,40.7137726,-74.013376
+SD,FL,"Protective Products of America, Inc.",27,29,25.9022381,-80.2959727
+ND,TX,"Provident Royalties, L.L.C et al.",443.31,466.05,,
+D,PR,R & G Financial Corporation,40,421,40.7596193,-73.9846788
+D,CO,Rancher Energy Corp.,32.30,11.58,39.7495213,-104.9913688
+D,NJ,RCLC,16.37,10.371,40.5614257,-74.2954843
+D,DE,"Regent Comms., Inc. , Riveria Holdings",166.51,68.49,40.6351026,-73.99245130000001
+WD,TX,South Texas Oil Company,49.07,27.90,27.7959881,-97.397002
+SD,NY,"Spongetech Delivery Systems, Inc.",0.50,                                       ----,40.7460762,-73.3083644
+ND,OH,Stamford Industrial Group,62.20,14.31,39.089782,-84.1959837
+D,DE,The Penn Traffic Company,150.38,136.87,,
+D,DE,TLC Vision Corp.,130.07,166.85,40.7513674,-73.98215820000001
+D,DE,"Topspin Medical, Inc.",0.36,0.54,40.9541309,-73.73675399999999
+SD,NY,"Trico Marine Services, Triple Crown Media",535.20,472.7,,
+D,DE,"U.S. Concrete, Inc.",389.16,399.35,40.8323066,-73.82415329999999
+CD,CA,U.S. Dry Cleaning Services Corporation,19.07,                                     ----,32.746664,-117.0586709
+D,DE,Velocity Express Corp.,94,121,40.7578272,-73.97966559999999
+D,DE,Vermillioin Inc.,7.15,32.015,40.7719776,-73.9614994
+D,DE,"Vion Pharmaceuticals, Inc.","3,030.85","2,366.24",39.1794872,-75.5531221
+D,DE,Visteon Corp.,"4,577.03","5,324.03",42.2421465,-83.4335661
+D,DE,"Xerium Technologies, Inc.",694,813,39.0187499,-78.2883854

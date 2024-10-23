@@ -1,0 +1,68 @@
+DISTRICT,STATE,COMPANY NAME,ASSETS (MILLIONS),LIABILITIES (MILLIONS),Latitude,Longitude
+D,NV,"Ad Systems Communications, Inc.",405,4,,
+D,NV,Alphatrade.com,686,4,40.744363,-73.98715729999999
+SD,NY,AMBAC Financial Group,395,"1,683",40.7130082,-74.0131689
+D,DE,"Ambassdors International , Inc.",86.44,87.32,40.7263088,-74.8480921
+D,NV,American Pacific Financial Corporation,19.18,161.08,36.1954328,-115.2502798
+ED,WA,AmericanWest Bancorporation,"1,536.18","1,537.97",47.5451896,-122.0578758
+D,DE,Angiotech Pharmaceuticals,326.01,622.00,40.7216229,-73.6037431
+D,TX,"Best Energy Services, Inc. et al.",20.72,30.58,32.7202269,-97.4339746
+SD,NY,Blockbuster Inc.,"1,017.04","1,464.94",44.0673041,-121.3036393
+SD,NY,Borders Group Inc.,"1,275.43","1,293.11",40.7536976,-73.9859663
+SD,CA,"Bridgetech Holdings International, Inc.",                                    --,7,32.9817462,-117.2700457
+ND,CA ,"Cardima, Inc.",650.76,1.02,37.5211135,-121.9938234
+ND,GA,CDC Corporation,377.38,250.18,33.7982129,-84.3277602
+ED,VA,"Commonwealth Biotechnologies, Inc.",9.80,4.90,37.5009191,-77.55521879999999
+CD,CA,Composite Technology Corporation,5.86,12.40,33.7356142,-118.0365114
+D,DE,"Constar International, Inc.",418,414,40.1409484,-74.9622566
+SD,NY,Credit Based Asset Serviceing and Securitization LLC,10.00,170.00,40.7570209,-73.97466949999999
+D,NV,"Desert Capital REIT, Inc.",19.84,40.22,36.0191321,-115.1015968
+CD,CA,"DigitalPost Interactive, Inc.",310.77,2.35,34.1838558,-118.3104266
+D,DE,"Evergreen Solar, Inc.",424,486,41.8795572,-71.3803967
+ND,GA,Gagle's Inc.,92,63,,
+MD,DFL,"Geopharma, Inc.",37,34,,
+SD,NY,"GSC Group, Inc.",119.79,313.56,40.750369,-73.99078399999999
+SD,FL,"Gulfstream International Group, Inc.",13.60,26.00,26.6873989,-80.1086273
+D,DE,"Harry & David Holdings, Inc.",304.00,361.00,40.803142,-74.0058554
+SD,FL,"HearUSA, Inc.",66,65,26.2008509,-80.110382
+D,KS,"ICOP Digital, Inc.",6.70,4.36,38.9770101,-94.7069999
+SD,NY,"Iron Mining Group, Inc.",1.75,6.26,40.751793,-73.9796511
+D,DE,Jackson Hewitt Tax Service Inc.,388.00,444.00,40.82712799999999,-73.9246102
+ND,CA,"Java Detour, Inc.",                                    --,3,39.1406413,-121.6198632
+D,DE,JAVO Beverage Company Inc.,14.66,26.71,39.7366694,-86.2571942
+WD,KY,"Kentucky USA Energy, Inc. et al.",9.76,10.19,37.1524348,-84.1282945
+ED,NC,Law Enforcement Associates Corporation,                                   --,2,36.060604,-79.8618798
+D,DE,"Local Insight Media Holdings, Inc., Caribe Media",500.00,558.00,40.757468,-73.978234
+D,MA,LocatePLUS Holdings Corp.,2.08,10.47,42.6210028,-71.1863864
+SD,NY,Majestic Capital Ltd,436.19,421.76,40.75943609999999,-73.9742132
+SD,NY,MF Global Holdings LTD,"41,000.00","39,700.00",40.7521891,-73.9787101
+ED,MA,"Molecular Insight Pharmaceuticals, Inc.",36.45,198.83,42.36655469999999,-71.0790954
+SD,TX,"Omega Navigation Enterprises, Inc. et al.",527,360,29.6486329,-95.28725589999999
+D,DE,"Plam Harbor Homes,Inc.",321.26,280.34,39.615428,-75.647474
+CD,CA,"Public Media Works, Inc.",873.25,1.14,33.982159,-118.427333
+D,NE,"QA3 Financial, Corp.",2.08,2.07,,
+D,DE,"Raser Technologies, Inc.",41.84,107.78,40.929169,-74.228101
+D,NJ,RCLC Inc.,16.37,10.37,40.5614257,-74.2954843
+D,DE,Regen Biologics Inc.,1.50,5.21,40.8760243,-74.2046709
+ND,TX,"ReoStar Energy Corp., et al.",21.03,15.54,32.8082268,-96.80573079999999
+SD,NY,"RHI Entertainment, Inc.",524.72,834.09,40.7578772,-73.9862334
+D,NV,Riviera Holdings Corporation,12.45,270.00,36.1352817,-115.1541623
+D,DE,Sand Spring Capital,                                   --,                                        --,40.7573686,-73.97149809999999
+SD,TX,"Seahawk Drilling, Inc. et al.",505,124,29.7368775,-95.9337923
+D,NV,"Shegda Tech, Inc.",295.43,180.86,,
+D,DE,Solyndra LLC,859.00,749.00,,
+D,AZ,"Star Buffett, Inc.",1.06,12.17,33.475468,-111.9083904
+MD,FL,"Tel Tronics, Inc.",10.25,19.14,27.5797697,-82.53797209999999
+ED,NY,Tetragenex Pharmaceuticals Inc.,133.03,3.75,41.0767984,-73.8264794
+SD,NY,"The Great Atlantic & Pacific Tea Company, Inc.","2,531.03","3,210.97",40.9088119,-74.0336746
+SD,CA,"Transdel Pharmaceuticals, Inc.",2,2,32.8977595,-117.219372
+D,DE,"Trico Marine Services, Inc.",31,354,33.8151245,-118.2898264
+D,DE,Vaso Active Pharmaceuticals,645.00,10.19,40.7078424,-74.0055508
+D,NJ,Visual Management Systems,273.00,12.25,40.8634301,-74.0654
+D,DE,"Waste2Energy Holdings, Inc.",6.00,17.00,40.9796993,-74.1185639
+D,DE,Wolverine Tube Inc.,116,238,34.5962715,-86.9542388
+,,,,,40.802587,-73.9681978
+,,,,,40.802587,-73.9681978
+,,,,,40.802587,-73.9681978
+,,,,,40.802587,-73.9681978
+,,,,,40.802587,-73.9681978
